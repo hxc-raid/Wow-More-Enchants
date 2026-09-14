@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.enchantextras.vein_miner"
+  },
+  "exclusive_set": "#enchantextras:exclusive_set/vein_timber",
+  "max_cost": {
+    "base": 25,
+    "per_level_above_first": 5
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 5
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#enchantextras:enchantable/pickaxe_axes",
+  "weight": 3
+}

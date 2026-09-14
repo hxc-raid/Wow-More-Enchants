@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 5,
+  "description": {
+    "translate": "enchantment.enchantextras.zealot"
+  },
+  "exclusive_set": "#enchantextras:exclusive_set/leech_zealot",
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 12
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 12
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/sharp_weapon",
+  "weight": 3
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantextras",
+  "version": "${version}",
+  "name": "Wow More Enchants",
+  "description": "Adds new data-driven enchantments to Minecraft 1.21.1: Swiftness, Leech, Zealot and Vein Miner.",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enchantextras.EEMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
