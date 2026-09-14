@@ -144,3 +144,5 @@ levels deal 2, 4 and 7 damage respectively for levels I, II and III.
      `ServerLivingEntityEvents.AFTER_DAMAGE`, `PlayerBlockBreakEvents.AFTER`,
      `UseBlockCallback`, `ServerTickEvents.END_SERVER_TICK`)
 3. Add a display name in `assets/enchantextras/lang/en_us.json`.
+
+Enjoy playing :)
