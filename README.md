@@ -11,7 +11,7 @@ for 1.21.1).
 | Swiftness   | Boots       | 4         | Village librarian trades (master)          | +6% movement speed per level (attribute-based, no code)      |
 | Leech       | Sword/Axe   | 3         | Bastion remnant chests                     | Heal 2 HP per level when you kill a mob                       |
 | Zealot      | Sword/Axe   | 3         | Bastion remnant chests                     | Gain Regeneration for 3 seconds per level when you kill a mob |
-| Vein Miner  | Pickaxe/Axe | 1         | Mineshaft & dungeon chests                 | Mines an entire connected ore vein (works with Fortune)      |
+| Vein Miner  | Pickaxe/Axe | 1         | Mineshaft & dungeon chests                 | Mines an entire connected ore vein (works with Fortune/silk touch)      |
 | Timber      | Axe         | 1         | Mineshaft & dungeon chests                 | Fells a whole tree (works with Fortune/Silk Touch)            |
 | Planter     | Hoe         | 3         | Enchanting table                           | Freshly planted crops start at a later growth stage           |
 | Heavy       | Chestplate  | 5         | Rare iron golem drop                       | +10% knockback resistance per level (attribute-based)         |
